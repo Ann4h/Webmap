@@ -1,0 +1,21 @@
+#map {
+  height: 400px;
+}
+
+.popup {
+  display: none;
+  position: absolute;
+  padding: 10px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  z-index: 9999;
+}
+
+.popup h2 {
+  margin-top: 0;
+}
+
+.popup p {
+  margin-bottom: 0;
+}
